@@ -1,7 +1,7 @@
 # JDFraire Buttons Library
 
 ![Version](https://img.shields.io/badge/version-1.0-brightgreen.svg)
-![Arduino](https://img.shields.io/badge/Arduino-compatible-blue.svg)
+![Arduino Nano Every](https://img.shields.io/badge/Arduino-compatible-blue.svg)
 
 ## Description
 
